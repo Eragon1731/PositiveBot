@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{2C5C133F-E888-877A-0E9E-0C53847D130A}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ParseJson.cs">
+    <Files>
+      <File FileName="Assets/Scripts/ParseJson.cs" Line="84" Column="52" />
+      <File FileName="Assets/Scripts/SaveData.cs" Line="40" Column="28" />
+      <File FileName="Assets/Scripts/JsonHelper.cs" Line="17" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PositiveBot" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="ParseJson.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="b44046b3-5e97-4c0a-97bb-e2643ca709bf" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
