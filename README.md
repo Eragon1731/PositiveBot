@@ -8,4 +8,4 @@ Requirements:
 Unity Engine
 
 View the project in action here:
-https://eragon1731.itch.io/positive-bot
+https://moechen.itch.io/positivebot
